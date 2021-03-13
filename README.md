@@ -1,0 +1,1 @@
+In this exercise, we will learn how to implement anonymous chat software. In this software, we first find the second person to chat with through a UDP broadcast message, and then we chat with him through TCP.
